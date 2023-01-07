@@ -1,3 +1,4 @@
+//mengkoneksikan netbeans ke database mysql
 
 package CRUD;
 
